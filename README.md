@@ -26,3 +26,4 @@ MODJAW2CT is intended solely for visualization and educational purposes, specifi
 ## Demo
 
 ![Mandibular motion visualization](MODJAW2CT.gif)
+![Mandibular motion visualization](MODJAW2CT.png)
