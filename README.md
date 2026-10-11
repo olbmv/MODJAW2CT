@@ -11,7 +11,7 @@ However, these two sources of information are not always integrated into a singl
 
 Install Python and the necessary libraries:
 
-``` pip install trimesh imageio-ffmpeg open3d ```
+``` pip install numpy scipy trimesh open3d imageio imageio-ffmpeg ```
 
 Run script:
 
